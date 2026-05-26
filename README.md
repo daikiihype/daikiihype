@@ -8,7 +8,7 @@ digital chaos architect
 ```
 
 <img src="https://media.tenor.com/..." width="600"/>
-<gif src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxqb2ZubHZ6MDllamJ6YWlwaGg2aDgxMDVqZm9oeDhsanBxNXMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif" width="600"/>
+<gif src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxqb2ZubHZ6MDllamJ6YWlwaGg2aDgxMDVqZm9oeDhsanBxNXMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif"/>
 
 </div>
 
