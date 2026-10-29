@@ -50,35 +50,6 @@ const daiki = {
 
 ---
 
-## `ACTIVE_PROJECTS.log`
-
-```txt
-> daiki.exe          // experimental digital interface
-> Daiki-Emulator    // emulator-inspired web project
-> VAI-CORINTHIANS   // chaotic html energy
-> Waifuu            // testing area / visual experiments
-```
-
----
-
-## `VISUAL_IDENTITY.png`
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
-
-</div>
-
-```txt
-dark mode by default
-neon fragments
-old internet soul
-ps2 startup energy
-anime hacker atmosphere
-```
-
----
-
 ## `GITHUB_STATS.dat`
 
 <div align="center">
