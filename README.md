@@ -48,19 +48,6 @@ const daiki = {
 
 </div>
 
----
-
-## `GITHUB_STATS.dat`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=daikiihype&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=7b2cff&text_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikiihype&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=ffffff"/>
-
-</div>
-
----
 
 <div align="center">
 
