@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:6f00ff,100:ff0055&height=180&section=header&text=DAIKIIHYPE&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 
 # `DAIKI.EXE`
 
